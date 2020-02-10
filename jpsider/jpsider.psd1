@@ -24,7 +24,7 @@ GUID = 'aa2d996c-25ed-4268-9b3a-53b0b0c160c5'
 Author = 'jpsider'
 
 # Company or vendor of this module
-CompanyName = 'Unknown'
+CompanyName = 'Invoke-Automation'
 
 # Copyright statement for this module
 Copyright = '(c) 2020 jpsider. All rights reserved.'
@@ -69,13 +69,13 @@ Description = 'HodgePodge of useful powershell functions.'
 # NestedModules = @()
 
 # Functions to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no functions to export.
-FunctionsToExport = '*'
+FunctionsToExport = 'Update-ConsoleTitle'
 
 # Cmdlets to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no cmdlets to export.
 # CmdletsToExport = '*'
 
 # Variables to export from this module
-VariablesToExport = '*'
+VariablesToExport = @()
 
 # Aliases to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no aliases to export.
 # AliasesToExport = '*'

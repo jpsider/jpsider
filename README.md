@@ -2,7 +2,7 @@
 
 HodgePodge of useful powershell functions.
 
-[![Build status](https://ci.appveyor.com/api/projects/status/github/jpsider/HodgePodge of useful powershell functions.?branch=master&svg=true)](https://ci.appveyor.com/project/jpsider/HodgePodge of useful powershell functions.)
+[![Build status](https://ci.appveyor.com/api/projects/status/github/jpsider/HodgePodge of useful powershell functions.?branch=master&svg=true)](https://ci.appveyor.com/project/jpsider/)
 [![PS Gallery](https://img.shields.io/badge/install-PS%20Gallery-blue.svg)](https://www.powershellgallery.com/packages/jpsider/)
 [![Coverage Status](https://coveralls.io/repos/github/jpsider/badge.svg?branch=master)](https://coveralls.io/github/jpsider/?branch=master)
 [![Documentation Status](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)](http://jpsider.readthedocs.io/en/latest/?badge=latest)
