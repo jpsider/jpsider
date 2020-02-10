@@ -10,7 +10,7 @@ function Update-ConsoleTitle
     .NOTES
         none
     .EXAMPLE
-        Update-ConsoleTitle
+        Update-ConsoleTitle -Title "My New Title"
     .LINK
         http://www.invoke-automation.blog
     #>
