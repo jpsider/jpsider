@@ -8,7 +8,7 @@ function Open-ConsoleWindow
     .PARAMETER Count
         Please provide a new Console Title.
     .PARAMETER Executable
-        Please provide an Executable. (Powershell.exe is default.)
+        Please provide an Executable. (Powershell.exe is default)
     .EXAMPLE
         Open-ConsoleWindow -Count 2 -Executable PowerShell.exe
     .EXAMPLE
