@@ -9,12 +9,14 @@ function Open-ConsoleWindow
         Please provide a new Console Title.
     .PARAMETER Executable
         Please provide an Executable. (Powershell.exe is default.)
-    .NOTES
-        none
     .EXAMPLE
         Open-ConsoleWindow -Count 2 -Executable PowerShell.exe
+    .EXAMPLE
+        Open-ConsoleWindow -Count 2 -Executable pwsh.exe
     .LINK
         http://www.invoke-automation.blog
+    .NOTES
+        none
     #>
     [CmdletBinding(
         SupportsShouldProcess = $true,
