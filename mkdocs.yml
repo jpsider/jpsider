@@ -7,6 +7,6 @@ pages:
 - jpsider Basics:
   - What is jpsider: about.md
   - Quick Start: Quick-Start-Installation-and-Example.md
-- Basic Commands:
-- Examples:
-- Acknowledgements: acknowledgements.md
+- Public Functions:
+  - Open-ConsoleWindow: Open-ConsoleWindow.md
+  - Update-ConsoleTitle: Update-ConsoleTitle.md
