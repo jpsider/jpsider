@@ -36,6 +36,7 @@ function ConvertTo-AsciiArt
             # Convert the String
             $EncodedText = [uri]::EscapeDataString($Text)
             $url = "$url" + "?text=$EncodedText&font=$FontName"
+            # Perform Rest Call
             Invoke-RestMethod -Uri $url
         }
         catch
